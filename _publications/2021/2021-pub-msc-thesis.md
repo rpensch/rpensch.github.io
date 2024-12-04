@@ -11,7 +11,7 @@ authors:
 - <strong>Raphaela Pensch</strong>
 
 links:
-  Paper: https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1576816&dswid=2607
+  Publication: https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1576816&dswid=2607
 ---
 
 
