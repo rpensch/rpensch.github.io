@@ -35,7 +35,7 @@ portrait_caption: >-
 
 education:
 - name: Uppsala University
-  logo: /assets/images/badges/UU_logo_color.svg
+  logo: /assets/images/badges/uu.png
   position: >- 
     Department of Medical Biochemistry and Microbiology (IMBIM) <br/>
     <a href="https://lindbladtohlab.org" target="_blank">Lindblad-Toh Lab</a> <br/>
@@ -44,13 +44,13 @@ education:
     Uppsala, Sweden <br/>
     10/2021 - present
 - name: Uppsala University
-  logo: /assets/images/badges/UU_logo_color.svg
+  logo: /assets/images/badges/uu.png
   position: MSc Bioinformatics
   date: >-
     Uppsala, Sweden <br/>
     09/2019 - 06/2021
 - name: BOKU University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/boku.png
   position: BSc Food Science and Biotechnology
   date: >-
     Vienna, Austria <br/>
