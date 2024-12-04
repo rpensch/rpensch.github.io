@@ -60,11 +60,11 @@ education:
     01/2018 - 05/2018
 
 experience:
- - name: PhD student
-   position: >- 
+- name: PhD student
+  position: >- 
     Uppsala University, Department of Medical Biochemistry and Microbiology (IMBIM),
-    <a href="https://lindbladtohlab.org" target="_blank">Lindblad-Toh Lab</a>
-   date: >-
+    <a href="https://lindbladtohlab.org" target="_blank">Lindblad-Toh Lab</a> 
+  date: >-
     Uppsala, Sweden <br/>
     10/2021 - present
 - name: Research Assistant
