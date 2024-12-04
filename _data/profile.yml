@@ -85,17 +85,21 @@ experience:
     Uppsala, Sweden <br/>
     11/2020 - 06/2021
 - name: Internship
-  logo: /assets/images/badges/ait.jpg
+  logo: /assets/images/badges/ait.png
   position: >- 
     AIT Austrian Institute of Technology, Center for Health and Bioresources
   date: >-
     Tulln, Austria <br/>
     08/2018 - 10/2018
 
-#awards:
-#- name: Award Name 2
-#  date: 2024
-#- name: Award Name 1 
-#  date: 2021
-#- name: A quick brown fox jumps over the lazy dog and runs away award
-#  date: 2021
+awards:
+- name: Best talk Award, International Conference of Canine and Feline Genetics and Genomics (ICCFGG)
+  date: 2024
+grants:
+- name: SciLifeLab EMBL exchange travel grant
+  date: 2021
+- name: EMBL Corporate Partnership Programme travel grant
+  date: 2021
+talks:
+- name: Oral presentation, ICCFGG
+  date: 2024
