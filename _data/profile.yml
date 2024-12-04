@@ -95,11 +95,21 @@ experience:
 awards:
 - name: Best talk Award, International Conference of Canine and Feline Genetics and Genomics (ICCFGG)
   date: 2024
+
 grants:
+- name: Non-graduated researchers grant at the Faculty of Medicine, Uppsala University
+  date: 2022-2025
 - name: SciLifeLab EMBL exchange travel grant
   date: 2021
 - name: EMBL Corporate Partnership Programme travel grant
   date: 2021
+  
 talks:
 - name: Oral presentation, ICCFGG
   date: 2024
+- name: Oral presentation, PhenoTarget symposium
+  date: 2024
+- name: Flash talk, EMBL Cancer Genomics Conference
+  date: 2023
+- name: Oral presentation, Brain Tumor Meeting
+  date: 2022
