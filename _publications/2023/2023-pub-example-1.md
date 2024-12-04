@@ -12,7 +12,7 @@ authors:
 - Sharadha Sakthikumar*
 - Sergey V. Kozyrev
 - Jessika Nordin
-- <strong>Raphaela Pensch<\strong>
+- <strong>Raphaela Pensch</strong>
 - Suvi Mäkeläinen
 - Mats Pettersson
 - Zoonomia Consortium
