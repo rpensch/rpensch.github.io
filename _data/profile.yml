@@ -61,6 +61,7 @@ education:
 
 experience:
 - name: PhD student
+  logo: /assets/images/badges/uu.png
   position: >- 
     Uppsala University, Department of Medical Biochemistry and Microbiology (IMBIM),
     <a href="https://lindbladtohlab.org" target="_blank">Lindblad-Toh Lab</a> 
@@ -68,6 +69,7 @@ experience:
     Uppsala, Sweden <br/>
     10/2021 - present
 - name: Research Assistant
+  logo: /assets/images/badges/uu.png
   position: >- 
     Uppsala University, Department of Medical Biochemistry and Microbiology (IMBIM),
     <a href="https://lindbladtohlab.org" target="_blank">Lindblad-Toh Lab</a>
@@ -75,6 +77,7 @@ experience:
     Uppsala, Sweden <br/>
     07/2020 - 09/2021
 - name: Master's degree project
+  logo: /assets/images/badges/uu.png
   position: >- 
     Uppsala University, Department of Medical Biochemistry and Microbiology (IMBIM),
     <a href="https://lindbladtohlab.org" target="_blank">Lindblad-Toh Lab</a>
@@ -82,6 +85,7 @@ experience:
     Uppsala, Sweden <br/>
     11/2020 - 06/2021
 - name: Internship
+  logo: /assets/images/badges/ait.jpg
   position: >- 
     Center for Health and Bioresources, AIT Austrian Institute of Technology
   date: >-
