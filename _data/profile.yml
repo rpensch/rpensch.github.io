@@ -36,10 +36,7 @@ portrait_caption: >-
 education:
 - name: Uppsala University
   logo: /assets/images/badges/uu.png
-  position: >- 
-    Department of Medical Biochemistry and Microbiology (IMBIM) <br/>
-    <a href="https://lindbladtohlab.org" target="_blank">Lindblad-Toh Lab</a> <br/>
-    PhD Student
+  position: PhD Student
   date: >-
     Uppsala, Sweden <br/>
     10/2021 - present
@@ -62,11 +59,34 @@ education:
     Galway, Ireland <br/>
     01/2018 - 05/2018
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+ experience:
+ - name: PhD student
+   position: >- 
+    Uppsala University, Department of Medical Biochemistry and Microbiology (IMBIM),
+    <a href="https://lindbladtohlab.org" target="_blank">Lindblad-Toh Lab</a>
+   date: >-
+    Uppsala, Sweden <br/>
+    10/2021 - present
+- name: Research Assistant
+  position: >- 
+    Uppsala University, Department of Medical Biochemistry and Microbiology (IMBIM),
+    <a href="https://lindbladtohlab.org" target="_blank">Lindblad-Toh Lab</a>
+  date: >-
+    Uppsala, Sweden <br/>
+    07/2020 - 09/2021
+- name: Master's degree project
+  position: >- 
+    Uppsala University, Department of Medical Biochemistry and Microbiology (IMBIM),
+    <a href="https://lindbladtohlab.org" target="_blank">Lindblad-Toh Lab</a>
+  date: >-
+    Uppsala, Sweden <br/>
+    11/2020 - 06/2021
+- name: Internship
+  position: >- 
+    Center for Health and Bioresources, AIT Austrian Institute of Technology
+  date: >-
+    Tulln, Austria <br/>
+    08/2018 - 10/2018
 
 #awards:
 #- name: Award Name 2
