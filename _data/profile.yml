@@ -3,10 +3,9 @@ secondary_name: ""
 navbar_name: "Raphaela Pensch"
 
 positions:
-- logo: /assets/images/badges/UU_logo_color.svg  # Logo is optional
-  name: PhD Student in Cancer Genomics
-#- name: Position 2 without logo
-
+#- logo: /assets/images/badges/UU_logo_color.svg  # Logo is optional
+#  name: PhD Student in Cancer Genomics
+- name: PhD Student in Cancer Genomics
 
 email: "rar.pensch@gmail.com"
 # cv_link: link-to-your-cv-file
@@ -39,22 +38,29 @@ education:
   logo: /assets/images/badges/UU_logo_color.svg
   position: >- 
     Department of Medical Biochemistry and Microbiology (IMBIM) <br/>
-    Uppsala, Sweden <br/>
     <a href="https://lindbladtohlab.org" target="_blank">Lindblad-Toh Lab</a> <br/>
     PhD Student
-  date: 10/2021 - present
+  date: >-
+    Uppsala, Sweden <br/>
+    10/2021 - present
 - name: Uppsala University
   logo: /assets/images/badges/UU_logo_color.svg
-  position: >- 
+  position: MSc Bioinformatics
+  date: >-
     Uppsala, Sweden <br/>
-    MSc Bioinformatics
-  date: 09/2019 - 06/2021
+    09/2019 - 06/2021
 - name: BOKU University
   logo: /assets/images/badges/PKU_red.png
-  position: >-
+  position: BSc Food Science and Biotechnology
+  date: >-
     Vienna, Austria <br/>
-    BSc Food Science and Biotechnology
-  date: 09/2015 - 05/2019
+    09/2015 - 05/2019
+- name: National University of Ireland Galway
+  logo: /assets/images/badges/galway.png
+  position: ERASMUS+ exchange semester
+  date: >-
+    Galway, Ireland <br/>
+    01/2018 - 05/2018
 
 # experience:
 # - name: Peking University
