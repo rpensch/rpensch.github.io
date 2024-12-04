@@ -8,7 +8,7 @@ positions:
 - name: PhD Student in Cancer Genomics
 
 email: "rar.pensch@gmail.com"
-# cv_link: link-to-your-cv-file
+cv_link: /assets/cv/CV_raphaela_pensch.pdf
 gscholar: zR898pcAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: rpensch
 twitter: rpensch  # Do not include the '@' symbol
@@ -92,24 +92,24 @@ experience:
     Tulln, Austria <br/>
     08/2018 - 10/2018
 
-awards:
-- name: Best talk Award, International Conference of Canine and Feline Genetics and Genomics (ICCFGG)
-  date: 2024
+#awards:
+#- name: Best talk Award, International Conference of Canine and Feline Genetics and Genomics (ICCFGG)
+#  date: 2024
 
-grants:
-- name: Non-graduated researcher grant, Faculty of Medicine, Uppsala University
-  date: 2022 - 2025
-- name: SciLifeLab EMBL exchange travel grant
-  date: 2021
-- name: EMBL Corporate Partnership Programme travel grant
-  date: 2021
+#grants:
+#- name: Non-graduated researcher grant, Faculty of Medicine, Uppsala University
+#  date: 2022 - 2025
+#- name: SciLifeLab EMBL exchange travel grant
+#  date: 2021
+#- name: EMBL Corporate Partnership Programme travel grant
+#  date: 2021
 
-talks:
-- name: Oral presentation, ICCFGG
-  date: 2024
-- name: Oral presentation, PhenoTarget symposium
-  date: 2024
-- name: Flash talk, EMBL Cancer Genomics Conference
-  date: 2023
-- name: Oral presentation, Brain Tumor Meeting
-  date: 2022
+#talks:
+#- name: Oral presentation, ICCFGG
+#  date: 2024
+#- name: Oral presentation, PhenoTarget symposium
+#  date: 2024
+#- name: Flash talk, EMBL Cancer Genomics Conference
+#  date: 2023
+#- name: Oral presentation, Brain Tumor Meeting
+#  date: 2022
