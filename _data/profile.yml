@@ -33,28 +33,32 @@ portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
-education:
-- name: Uppsala University
+education: 
+- name: PhD Cancer Genomics
   logo: /assets/images/badges/uu.png
-  position: PhD Student
+  position: >-
+    Uppsala University
+    Faculty of Medicine
   date: >-
     Uppsala, Sweden <br/>
     10/2021 - present
-- name: Uppsala University
+- name: MSc Bioinformatics
   logo: /assets/images/badges/uu.png
-  position: MSc Bioinformatics
+  position: >-
+    Uppsala University
+    Faculty of Science and Technology
   date: >-
     Uppsala, Sweden <br/>
     09/2019 - 06/2021
-- name: BOKU University
+- name: BSc Food Science and Biotechnology
   logo: /assets/images/badges/boku.jpg
-  position: BSc Food Science and Biotechnology
+  position: BOKU University
   date: >-
     Vienna, Austria <br/>
     09/2015 - 05/2019
-- name: National University of Ireland Galway
+- name: ERASMUS+ exchange semester
   logo: /assets/images/badges/galway.png
-  position: ERASMUS+ exchange semester
+  position: University of Galway
   date: >-
     Galway, Ireland <br/>
     01/2018 - 05/2018
@@ -63,7 +67,8 @@ experience:
 - name: PhD student
   logo: /assets/images/badges/uu.png
   position: >- 
-    Uppsala University, Department of Medical Biochemistry and Microbiology (IMBIM),
+    Uppsala University
+    Department of Medical Biochemistry and Microbiology
     <a href="https://lindbladtohlab.org" target="_blank">Lindblad-Toh Lab</a> 
   date: >-
     Uppsala, Sweden <br/>
@@ -71,7 +76,8 @@ experience:
 - name: Research Assistant
   logo: /assets/images/badges/uu.png
   position: >- 
-    Uppsala University, IMBIM,
+    Uppsala University
+    Department of Medical Biochemistry and Microbiology
     <a href="https://lindbladtohlab.org" target="_blank">Lindblad-Toh Lab</a>
   date: >-
     Uppsala, Sweden <br/>
@@ -79,7 +85,8 @@ experience:
 - name: Master's degree project
   logo: /assets/images/badges/uu.png
   position: >- 
-    Uppsala University, IMBIM,
+    Uppsala University,
+    Department of Medical Biochemistry and Microbiology
     <a href="https://lindbladtohlab.org" target="_blank">Lindblad-Toh Lab</a>
   date: >-
     Uppsala, Sweden <br/>
@@ -87,7 +94,8 @@ experience:
 - name: Internship
   logo: /assets/images/badges/ait.png
   position: >- 
-    AIT Austrian Institute of Technology, Center for Health and Bioresources
+    AIT Austrian Institute of Technology
+    Center for Health and Bioresources
   date: >-
     Tulln, Austria <br/>
     08/2018 - 10/2018
