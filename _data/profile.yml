@@ -37,7 +37,7 @@ education:
 - name: PhD Cancer Genomics
   logo: /assets/images/badges/uu.png
   position: >-
-    Uppsala University
+    Uppsala University <br/>
     Faculty of Medicine
   date: >-
     Uppsala, Sweden <br/>
@@ -45,7 +45,7 @@ education:
 - name: MSc Bioinformatics
   logo: /assets/images/badges/uu.png
   position: >-
-    Uppsala University
+    Uppsala University <br/>
     Faculty of Science and Technology
   date: >-
     Uppsala, Sweden <br/>
@@ -67,7 +67,7 @@ experience:
 - name: PhD student
   logo: /assets/images/badges/uu.png
   position: >- 
-    Uppsala University
+    Uppsala University <br/>
     Department of Medical Biochemistry and Microbiology
     <a href="https://lindbladtohlab.org" target="_blank">Lindblad-Toh Lab</a> 
   date: >-
@@ -76,7 +76,7 @@ experience:
 - name: Research Assistant
   logo: /assets/images/badges/uu.png
   position: >- 
-    Uppsala University
+    Uppsala University <br/>
     Department of Medical Biochemistry and Microbiology
     <a href="https://lindbladtohlab.org" target="_blank">Lindblad-Toh Lab</a>
   date: >-
@@ -85,7 +85,7 @@ experience:
 - name: Master's degree project
   logo: /assets/images/badges/uu.png
   position: >- 
-    Uppsala University,
+    Uppsala University <br/>
     Department of Medical Biochemistry and Microbiology
     <a href="https://lindbladtohlab.org" target="_blank">Lindblad-Toh Lab</a>
   date: >-
@@ -94,7 +94,7 @@ experience:
 - name: Internship
   logo: /assets/images/badges/ait.png
   position: >- 
-    AIT Austrian Institute of Technology
+    AIT Austrian Institute of Technology <br/>
     Center for Health and Bioresources
   date: >-
     Tulln, Austria <br/>
