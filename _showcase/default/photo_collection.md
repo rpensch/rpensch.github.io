@@ -5,6 +5,7 @@ date: 2021-09-12 00:01:00 +0800
 height: 340px
 images:
 - src: /assets/images/240521_CareerPathSeminar.jpg
+- src: /assets/images/241205_WineCheeseGasque.jpg
 - src: /assets/images/241209_CareerPathSeminar.jpg
 ---
 
