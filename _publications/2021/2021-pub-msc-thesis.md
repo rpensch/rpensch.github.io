@@ -1,7 +1,7 @@
 ---
 title:          "Non-coding constraint mutations impact the gene regulatory system in osteosarcoma"
 date:           2021-07-02 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Uppsala University / Master thesis"
 pub_date:       "2021"
 abstract: >-
